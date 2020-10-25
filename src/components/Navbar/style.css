@@ -1,0 +1,9 @@
+@font-face {
+    font-family: squid;
+    src: url('../../fonts/squid.TTF');
+    font-weight: bold;
+  }
+
+.lettering {
+  font-family: 'squid', sans-serif;
+}
